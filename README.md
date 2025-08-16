@@ -1,4 +1,4 @@
-# ISO 27001 Lead Implementor Portfolio  
+# ISO 27001 Lead Implementor   
 
 This repository highlights my work as an **ISO/IEC 27001 Lead Implementor**, showcasing practical documentation and procedures for building an **Information Security Management System (ISMS)**.  
 
